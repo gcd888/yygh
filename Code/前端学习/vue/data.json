@@ -1,0 +1,12 @@
+{
+    "code":20000,
+    "success":true,
+    "message":"成功",
+    "data":{
+        "items":[
+            {"username":"zhangsan","age":18,"hobby":"book"},
+            {"username":"lisi","age":18,"hobby":"book"},
+            {"username":"wangwu","age":18,"hobby":"book"}
+        ]
+    }
+}

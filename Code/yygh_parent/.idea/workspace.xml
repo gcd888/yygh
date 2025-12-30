@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="329f48ee-e7a2-4719-a9ce-a26fb6258cc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="Use Maven wrapper" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2PXb9AekvMhqTVjknKMphEr2qPb" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/HelloWorld/project/yygh/Code/yygh_parent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "spring.configuration.checksum": "4e2d904116644fb56fe3d62e89824d69",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MavenRunConfiguration" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceStatisticsApplication">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.gateway.GatewayApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hospital-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.hospital.ManageApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCmnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_cmn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.ServiceCmnApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHospApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_hosp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.hosp.ServiceHospApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.hosp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.order.ServiceOrderApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOssAppliaction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.ServiceOssAppliaction" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.sms.ServiceSmsApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceStatisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.statictics.ServiceStatisticsApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.statictics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="service_task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.task.ServiceTaskApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.yygh.user.ServiceUserApplication" />
+      <option name="VM_PARAMETERS" value="-Xms40m -Xmx50m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.yygh.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceStatisticsApplication" />
+      <item itemvalue="Spring Boot.ServiceUserApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ManageApplication" />
+      <item itemvalue="Spring Boot.ServiceCmnApplication" />
+      <item itemvalue="Spring Boot.ServiceHospApplication" />
+      <item itemvalue="Spring Boot.ServiceOrderApplication" />
+      <item itemvalue="Spring Boot.ServiceOssAppliaction" />
+      <item itemvalue="Spring Boot.ServiceSmsApplication" />
+      <item itemvalue="Spring Boot.ServiceTaskApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="329f48ee-e7a2-4719-a9ce-a26fb6258cc7" name="Changes" comment="" />
+      <created>1683606220706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683606220706</updated>
+      <workItem from="1683606221956" duration="13866000" />
+      <workItem from="1683688128105" duration="8633000" />
+      <workItem from="1683696829043" duration="407000" />
+      <workItem from="1683697249410" duration="326000" />
+      <workItem from="1683697590772" duration="12660000" />
+      <workItem from="1683713668145" duration="452000" />
+      <workItem from="1683714134715" duration="492000" />
+      <workItem from="1683768516715" duration="8768000" />
+      <workItem from="1683793055834" duration="587000" />
+      <workItem from="1683793672183" duration="9000" />
+      <workItem from="1683881468731" duration="7735000" />
+      <workItem from="1683891267066" duration="3839000" />
+      <workItem from="1684112853357" duration="13360000" />
+      <workItem from="1684148350128" duration="342000" />
+      <workItem from="1684149342379" duration="667000" />
+      <workItem from="1684195218787" duration="15935000" />
+      <workItem from="1684283261269" duration="7035000" />
+      <workItem from="1684374832019" duration="8305000" />
+      <workItem from="1684456540163" duration="3480000" />
+      <workItem from="1684505458137" duration="10000" />
+      <workItem from="1684515258189" duration="4060000" />
+      <workItem from="1684591374077" duration="236000" />
+      <workItem from="1684724291294" duration="614000" />
+      <workItem from="1684891054190" duration="379000" />
+      <workItem from="1684913408980" duration="17000" />
+      <workItem from="1685065375573" duration="866000" />
+      <workItem from="1685066895459" duration="2116000" />
+      <workItem from="1685152426885" duration="1938000" />
+      <workItem from="1685156503248" duration="691000" />
+      <workItem from="1685183403504" duration="20000" />
+      <workItem from="1685406996579" duration="1000" />
+      <workItem from="1685432045282" duration="823000" />
+      <workItem from="1685503494842" duration="1558000" />
+      <workItem from="1685516103264" duration="1456000" />
+      <workItem from="1685518374356" duration="74000" />
+      <workItem from="1685605550265" duration="643000" />
+      <workItem from="1685781222058" duration="2132000" />
+      <workItem from="1685935293550" duration="975000" />
+      <workItem from="1685943540349" duration="640000" />
+      <workItem from="1685944770406" duration="228000" />
+      <workItem from="1685945167156" duration="750000" />
+      <workItem from="1685955944825" duration="37000" />
+      <workItem from="1686014926101" duration="1450000" />
+      <workItem from="1686033708975" duration="74000" />
+      <workItem from="1686117743198" duration="32000" />
+      <workItem from="1686122074782" duration="608000" />
+      <workItem from="1686402105726" duration="3664000" />
+      <workItem from="1686465522498" duration="714000" />
+      <workItem from="1708592179429" duration="1503000" />
+      <workItem from="1710148781846" duration="623000" />
+      <workItem from="1710483659748" duration="1876000" />
+      <workItem from="1710754612374" duration="13000" />
+      <workItem from="1719206565451" duration="26000" />
+      <workItem from="1721180718330" duration="1023000" />
+      <workItem from="1721187534504" duration="4455000" />
+      <workItem from="1721292592733" duration="1826000" />
+      <workItem from="1721729343176" duration="77000" />
+      <workItem from="1728524808282" duration="695000" />
+      <workItem from="1728629486288" duration="5378000" />
+      <workItem from="1754384185192" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_order/src/main/java/com/atguigu/yygh/order/service/impl/WeiPayServiceImpl.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

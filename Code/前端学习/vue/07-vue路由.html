@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id="app">
+        <h1>hello router</h1>
+        <router-link to="/">首页</router-link>
+        <router-link to="/student">学生列表</router-link>
+        <router-link to="/teacher">教师列表</router-link>
+        <router-link to="/others">其他列表</router-link>
+        <router-view></router-view>
+    </div>
+    <script src="vue.min.js"></script>
+    <script src="vue-router.min.js"></script>
+    <script>
+        var routes = [
+            {path:"/",redirect:"/student"},
+            {path:"/student",component:{template:"<div>student list</div>"}},
+            {path:"/teacher",component:{template:"<div>teacher list</div>"}},
+            {path:"/others",component:{template:"<div>others list</div>"}},
+        ]
+        const router = new VueRouter({
+            routes:routes
+        })
+        new Vue({
+            el: '#app',
+            data: {
+                
+            },
+            router
+        })
+    </script>
+</body>
+</html>

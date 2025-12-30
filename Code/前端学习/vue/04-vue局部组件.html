@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id="app">
+        <aaa></aaa>
+        <bbb></bbb>
+    </div>
+    <script src="vue.min.js"></script>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                
+            },
+            // 定义局部组件，这里可以定义多个局部组件
+            components:{
+                //组件的名字
+                'aaa':{
+                    //组件的内容
+                    template:"<ul><li>张三</li><li>李四</li><li>王五</li></ul>"
+                },
+                'bbb':{
+                    template:"<ul><li>zhangsan</li><li>lisi</li><li>wangwu</li></ul>"
+                }
+            }
+        })
+    </script>
+</body>
+</html>
